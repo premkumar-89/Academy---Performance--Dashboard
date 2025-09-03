@@ -74,4 +74,4 @@ Practical application of Excel for academic performance analysis
 
 Hands-on experience with interactive dashboards, KPIs, and slicers
 
-Improved ability to turn raw education data into actionable insights for student success
+Improved ability to turn raw education data into actionable insights for student success.
