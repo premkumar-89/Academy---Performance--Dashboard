@@ -1,53 +1,77 @@
-# Academy-Performance-Dashboard
+Education Performance Dashboard
 
-📊 Learn Academy Dashboard
+📌 Project Overview
+This project analyzes student performance data to track enrollment, grades, and departmental distribution.
+The goal is to provide insights into student outcomes, course popularity, and academic trends through an interactive Excel dashboard.
 
-This project presents an interactive Excel dashboard for analyzing student performance, enrollment, and academic trends at Learn Academy. The dashboard provides a visual overview of key metrics such as student count, course enrollment, grade distribution, and department insights.
+🎯 Objectives
 
-🚀 Features
+Measure overall student enrollment and course participation
 
-KPIs Overview
+Identify grade distribution and track pass vs. fail rates
 
-Total Students
+Compare course credits against enrollment trends
 
-Number of Courses
+Analyze student demographics by department and age group
 
-Grades Distribution
+Provide actionable insights for improving academic performance and resource allocation
 
-Enrollments
+🛠 Tools Used
 
-Interactive Filters
+Excel: Pivot Tables, Pivot Charts, Slicers, Conditional Formatting, Dashboard Design
 
-Department filter (Commerce, Computer Science, Math, Physics)
+📊 Steps Performed
 
-Grade filter (A–F)
+Data Cleaning & Preparation
 
-Credits filter (2–4)
+Imported student, course, and enrollment datasets into Excel
 
-Visual Insights
+Removed duplicates, standardized course/department fields, and structured grade categories
 
-📌 Student Count by Age Group (Pie Chart)
+Data Modeling
 
-📌 Pass vs Fail Rate by Grade (Line Chart)
+Linked Students, Courses, and Enrollments tables
 
-📌 Course Credits vs Enrollment (Bar Chart)
+Created calculated measures (e.g., enrollment per credit, grade counts)
 
-📌 Top Grade Students (Column Chart)
+Key Metrics
 
-Key Recommendations
+Total Students: 50
 
-Allocate more resources to high-enrollment courses.
+Total Courses: 10
 
-Provide support to low-performing students (D/F grades).
+Total Enrollments: 31
 
-Balance department workload for faculty optimization.
+Grade Distribution: A–F categories
 
-Monitor student academic load and credit balance.
+Dashboard Development
 
-🛠️ Tools & Technologies
+KPI Cards: Student Count, Course Count, Grade Count, Enrollment Count
 
-Microsoft Excel (Pivot Tables, Charts, Slicers, Dashboard design)
+Pie Chart: Student Count by Age Group
 
-Data Visualization for performance analysis
+Line Chart: Pass vs. Fail Rate by Grade
 
-Interactive Dashboarding for actionable insights
+Bar Chart: Course Credits vs. Enrollment
+
+Bar Chart: Top Grade Students
+
+Slicers: Department, Grade, Credits
+
+🔍 Insights Generated
+
+Courses with higher enrollment need additional resources to support demand
+
+Many students are struggling with D/F grades, indicating a need for remedial support
+
+Enrollment distribution varies across departments, requiring balanced faculty allocation
+
+Some students are taking very high/low credits → need to monitor academic load
+
+🚀 Key Learnings
+
+Practical application of Excel for academic performance analysis
+
+Hands-on experience with interactive dashboards, KPIs, and slicers
+
+Improved ability to turn raw education data into actionable insights for student success
